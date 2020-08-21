@@ -6,7 +6,4 @@ The effect of a hole that burns into paper revealing the next screen underneath.
 
 # Article
 
-Find the respective tutorial about how everything was created on https://www.flutterclutter.dev/.
-
-
-
+Find the respective tutorial about how everything was created on https://www.flutterclutter.dev/flutter/burning-paper-effect/2020/1354/.
